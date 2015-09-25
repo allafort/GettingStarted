@@ -22,6 +22,9 @@ For a video tutorial that should (hopefully) get you from git newbie to being ab
 * [What's the difference between a "Fork" and a "Branch"?](#forks)
 * [Where can I find out more?](#more)
 
+
+Alice is testing the new way to change a file
+
 ----------------------------------------------------------------------
 #### <a name="whatisgit"></a>What is Git? And GitHub?
 
